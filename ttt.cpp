@@ -39,4 +39,6 @@ int main() {
 
     }
 
+    cout << "IT'S A TIE!\n";
+
 }
