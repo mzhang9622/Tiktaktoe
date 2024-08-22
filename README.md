@@ -1,5 +1,8 @@
 # Tiktaktoe game using C++
 First basic project using C++ to create a tiktaktoe game. 
+Author: Ming Zhang
+Date: 23 August 2024
+
 
 ttt.cpp is the main file that executes the game using the functions declared and defined by tik_functions.cpp and tik_functions.hpp.
 tik_functions.hpp serves as the header file for declaring the functions defined in tik_functions.cpp.
