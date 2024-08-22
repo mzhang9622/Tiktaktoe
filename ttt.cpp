@@ -1,3 +1,10 @@
+/*
+Author: Ming Zhang
+Date: 23 August 2024
+Title: Tiktaktoe
+*/
+
+
 #include <iostream>
 #include <vector>
 #include "tik_functions.hpp"
